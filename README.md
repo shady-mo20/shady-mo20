@@ -1,17 +1,22 @@
 <div align="center">
-  <h1>👋</h1>
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Welcome GIF" width="250"/>
-  
-  <h2>Shady Mohammed</h2>
-  <p><em>AI Engineer</em></p>
-  
-  <p>
-    🔹 AI Engineer specializing in machine learning and AI-driven solutions.<br>
-    🔹 Contributions: 45 in 2024<br>
-    🔹 Public Repositories: 9<br>
-    🔹 Joined GitHub: 4 years ago<br>
-    🔹 Contact: <a href="mailto:shasdymohammed@gmail.com">shasdymohammed@gmail.com</a>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Welcome GIF" width="200"/>
+      </td>
+      <td>
+        <h2>Shady Mohammed</h2>
+        <p><em>AI Engineer</em></p>
+        <p>
+          🔹 AI Engineer specializing in machine learning and AI-driven solutions.<br>
+          🔹 Contributions: 45 in 2024<br>
+          🔹 Public Repositories: 9<br>
+          🔹 Joined GitHub: 4 years ago<br>
+          🔹 Contact: <a href="mailto:shasdymohammed@gmail.com">shasdymohammed@gmail.com</a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
