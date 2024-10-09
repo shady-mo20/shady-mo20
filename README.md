@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,gcp,linux,r,cpp,java,scala,git,github,flask,fastapi,sql,mongodb,redis" alt="AI Engineer Skills" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,gcp,linux,r,cpp,java,scala,git,github,flask,fastapi,mongodb,redis" alt="AI Engineer Skills" />
   </a>
 </div>
 
