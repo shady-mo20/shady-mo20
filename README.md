@@ -2,17 +2,17 @@
   <h1>👋 Welcome to My GitHub Profile!</h1>
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Welcome GIF" width="250"/>
   
-  <h2>Shady Mo (AI Engineer)</h2>
+  <h2>Shady Mohammed (AI Engineer)</h2>
   
   <p>
-    🔹 **AI Engineer** specializing in machine learning and AI-driven solutions.<br>
-    🔹 **Contributions:** 45 in 2024<br>
-    🔹 **Public Repositories:** 9<br>
-    🔹 **Joined GitHub:** 4 years ago<br>
-    🔹 **Contact:** [shasdymohammed@gmail.com](mailto:shasdymohammed@gmail.com)
+    🔹 AI Engineer specializing in machine learning and AI-driven solutions.<br>
+    🔹 Contributions: 45 in 2024<br>
+    🔹 Public Repositories: 9<br>
+    🔹 Joined GitHub: 4 years ago<br>
+    🔹 Contact: [shasdymohammed@gmail.com](mailto:shasdymohammed@gmail.com)
   </p>
   
-### 📊 **GitHub Stats**
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shady-mo20&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -24,7 +24,7 @@
   
 </div>
 
-### 🛠️ **Tech Stack**
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -36,7 +36,7 @@
 </div>
 
 
-### 🚀 **Additional Skills for AI Engineers & Programmers**
+### 🚀 Additional Skills for AI Engineers & Programmers
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +44,7 @@
   </a>
 </p>
 
-### 🔗 **Connect with Me**
+### 🔗 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/engshady-mohamed-842b93173/" target="_blank">
@@ -59,6 +59,6 @@
 </div>
 ---
 
-⚡ **Fun Fact:** When I'm not diving into AI projects, you can find me exploring tech communities or working on personal coding challenges!
+⚡ Fun Fact: When I'm not diving into AI projects, you can find me exploring tech communities أو العمل على تحديات برمجية شخصية!
 
 ---
