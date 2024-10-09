@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Welcome to My GitHub Profile!</h1>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Welcome GIF" width="250"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Welcome GIF" width="250"/>
   
   <h2>Shady Mo (AI Engineer)</h2>
   
@@ -14,7 +14,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=shady-mo20&show_icons=true&theme=dark&count_private=true" alt="Contribution Graph"/>
   
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Divider GIF" width="100%"/>
+  <img src="https://media.giphy.com/media/26xBIygZT77FEJ7cA/giphy.gif" alt="Divider GIF" width="100%"/>
 </div>
 
 ### 🛠️ **Tech Stack**
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Divider GIF" width="100%"/>
+<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Divider GIF" width="100%"/>
 
 ### 🔗 **Connect with Me**
 
@@ -66,11 +66,11 @@
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Divider GIF" width="100%"/>
+<img src="https://media.giphy.com/media/xT0Gqpd7xwGjH9jAwI/giphy.gif" alt="Divider GIF" width="100%"/>
 
 ⚡ **Fun Fact:** When I'm not diving into AI projects, you can find me exploring tech communities or working on personal coding challenges!
 
-<img src="https://media.giphy.com/media/xT0Gqpd7xwGjH9jAwI/giphy.gif" alt="Fun Fact GIF" width="100%"/>
+<img src="https://media.giphy.com/media/3o7aD3Tg9G6gL5QJdG/giphy.gif" alt="Fun Fact GIF" width="100%"/>
 
 ---
 
