@@ -8,7 +8,7 @@
         <h2>Shady Mohammed</h2>
         <p><em>AI Engineer</em></p>
         <p>
-          🔹 AI Engineer specializing in machine learning and AI-driven solutions.<br>
+          🔹 specializing in machine learning and AI-driven solutions.<br>
           🔹 Contributions: 45 in 2024<br>
           🔹 Public Repositories: 9<br>
           🔹 Joined GitHub: 4 years ago<br>
