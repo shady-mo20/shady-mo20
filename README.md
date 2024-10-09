@@ -14,7 +14,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=shady-mo20&show_icons=true&theme=dark&count_private=true" alt="Contribution Graph"/>
   
-  <!-- Removed Divider GIF -->
 </div>
 
 ### 🛠️ **Tech Stack**
@@ -28,8 +27,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
-<!-- Removed Divider GIF -->
-
 ### 🔗 **Connect with Me**
 
 <div align="center">
@@ -37,17 +34,15 @@
     <img src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" alt="LinkedIn" style="margin: 10px;"/>
   </a>
   <a href="https://www.kaggle.com/shadymohammed205/code" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/kaggle.png" alt="Kaggle" style="margin: 10px;"/>
+    <img src="https://img.icons8.com/color/50/000000/kaggle.png" alt="Kaggle" style="margin: 10px;"/>
   </a>
   <a href="https://x.com/shady_en102" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/twitter-squared.png" alt="X (Twitter)" style="margin: 10px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter-squared.png" alt="X (Twitter)" style="margin: 10px;"/>
   </a>
   <a href="mailto:shasdymohammed@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/50/000000/email.png" alt="Email" style="margin: 10px;"/>
   </a>
 </div>
-
-<!-- Removed Divider GIF -->
 
 ### 📌 **Featured Repositories**
 
@@ -66,25 +61,8 @@
   </a>
 </div>
 
-<!-- Removed Divider GIF -->
-
 ⚡ **Fun Fact:** When I'm not diving into AI projects, you can find me exploring tech communities or working on personal coding challenges!
-
-<!-- Removed Fun Fact GIF -->
 
 ---
 
-<div align="center">
-  <a href="https://github.com/shady-mo20" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" style="margin: 10px;"/>
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/discord-logo.png" alt="Discord" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/engshady-mohamed-842b93173/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" alt="LinkedIn" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" alt="Instagram" style="margin: 10px;"/>
-  </a>
-</div>
+<!-- Removed extra icons from the bottom -->
