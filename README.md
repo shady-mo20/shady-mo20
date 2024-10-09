@@ -12,7 +12,15 @@
     🔹 **Contact:** [shasdymohammed@gmail.com](mailto:shasdymohammed@gmail.com)
   </p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=shady-mo20&show_icons=true&theme=dark&count_private=true" alt="Contribution Graph"/>
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shady-mo20&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady-mo20&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
   
 </div>
 
