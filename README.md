@@ -31,16 +31,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/engshady-mohamed-842b93173/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" alt="LinkedIn" style="margin: 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 10px;"/>
   </a>
   <a href="https://www.kaggle.com/shadymohammed205/code" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="50" height="50" style="margin: 10px;"/>
+    <img src="https://img.icons8.com/windows/50/1A73E8/kaggle.png" alt="Kaggle" style="margin: 10px;"/>
   </a>
   <a href="https://x.com/shady_en102" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter-squared.png" alt="X (Twitter)" style="margin: 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X (Twitter)" style="margin: 10px;"/>
   </a>
   <a href="mailto:shasdymohammed@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/email.png" alt="Email" style="margin: 10px;"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/email.png" alt="Email" style="margin: 10px;"/>
   </a>
 </div>
 
