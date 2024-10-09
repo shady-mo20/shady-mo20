@@ -41,6 +41,16 @@
   </a>
 </div>
 
+### 🚀 **Additional Skills**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" alt="Skill Icons" />
+  </a>
+</p>
+
+---
+
 ### 📌 **Featured Repositories**
 
 <div align="center">
@@ -61,5 +71,3 @@
 ⚡ **Fun Fact:** When I'm not diving into AI projects, you can find me exploring tech communities or working on personal coding challenges!
 
 ---
-
-<!-- Removed extra icons from the bottom -->
