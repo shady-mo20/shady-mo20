@@ -51,14 +51,6 @@
 
 ---
 
-### 📌 **Featured Repositories**
-
-<!--LATEST-REPOS-START-->
-<!-- This section will be dynamically updated with your latest repositories -->
-<!--LATEST-REPOS-END-->
-
----
-
 ⚡ **Fun Fact:** When I'm not diving into AI projects, you can find me exploring tech communities or working on personal coding challenges!
 
 ---
