@@ -39,9 +39,6 @@
   <a href="https://x.com/shady_en102" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X (Twitter)" style="margin: 10px;"/>
   </a>
-  <a href="mailto:shasdymohammed@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/email.png" alt="Email" style="margin: 10px;"/>
-  </a>
 </div>
 
 ### 📌 **Featured Repositories**
