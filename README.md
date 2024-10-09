@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Welcome GIF" width="250"/>
+  
   
   <h2>Shady Mohammed</h2>
   <p><em>AI Engineer</em></p>
@@ -13,8 +13,10 @@
   </p>
 </div>
 
----
 
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Welcome GIF" width="250"/>
+
+---
 ## 📈 GitHub Statistics
 
 <div align="center">
