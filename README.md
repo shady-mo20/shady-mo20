@@ -27,6 +27,15 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
+
+### 🚀 **Additional Skills for AI Engineers & Programmers**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,gcp,linux,r,cpp,java,scala,git,github,flask,fastapi,sql,mongodb,redis" alt="AI Engineer Skills" />
+  </a>
+</p>
+
 ### 🔗 **Connect with Me**
 
 <div align="center">
@@ -40,15 +49,6 @@
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X (Twitter)" style="margin: 10px;"/>
   </a>
 </div>
-
-### 🚀 **Additional Skills for AI Engineers & Programmers**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,gcp,linux,r,cpp,java,scala,git,github,flask,fastapi,sql,mongodb,redis" alt="AI Engineer Skills" />
-  </a>
-</p>
-
 ---
 
 ⚡ **Fun Fact:** When I'm not diving into AI projects, you can find me exploring tech communities or working on personal coding challenges!
