@@ -53,20 +53,11 @@
 
 ### 📌 **Featured Repositories**
 
-<div align="center">
-  <a href="https://github.com/shady-mo20/linear_regression_project" target="_blank">
-    <img src="https://img.shields.io/badge/Linear_Regression_Project-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Linear Regression Project" style="margin: 10px;"/>
-  </a>
-  <a href="https://github.com/shady-mo20/ResumeApp" target="_blank">
-    <img src="https://img.shields.io/badge/Resume_App-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Resume App" style="margin: 10px;"/>
-  </a>
-  <a href="https://github.com/shady-mo20/International-Air-Traffic-data" target="_blank">
-    <img src="https://img.shields.io/badge/International_Air_Traffic_Data-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="International Air Traffic Data" style="margin: 10px;"/>
-  </a>
-  <a href="https://github.com/shady-mo20/Object-Detection" target="_blank">
-    <img src="https://img.shields.io/badge/Object_Detection-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Object Detection" style="margin: 10px;"/>
-  </a>
-</div>
+<!--LATEST-REPOS-START-->
+<!-- This section will be dynamically updated with your latest repositories -->
+<!--LATEST-REPOS-END-->
+
+---
 
 ⚡ **Fun Fact:** When I'm not diving into AI projects, you can find me exploring tech communities or working on personal coding challenges!
 
