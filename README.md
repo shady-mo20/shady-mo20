@@ -49,15 +49,6 @@
   </a>
 </p>
 
-### Featured AI Skills:
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, Keras
-- **Programming Languages:** Python, R, C++, Java, Scala
-- **Data Processing & Databases:** SQL, MongoDB, Redis, Pandas, NumPy
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, Google Cloud, Azure
-- **Web Frameworks:** Flask, FastAPI, Django
-- **Big Data Tools:** Hadoop, Apache Spark, Kafka
-- **Version Control:** Git, GitHub, GitLab
-
 ---
 
 ### 📌 **Featured Repositories**
