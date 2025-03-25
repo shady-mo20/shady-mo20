@@ -10,7 +10,7 @@
         <p>
           🔹 specializing in machine learning and AI-driven solutions.<br>
           🔹 Contributions: 45 in 2024<br>
-          🔹 Public Repositories: 9<br>
+          🔹 Public Repositories: 15<br>
           🔹 Joined GitHub: 4 years ago<br>
           🔹 Contact: <a href="mailto:shasdymohammed@gmail.com">shasdymohammed@gmail.com</a>
         </p>
