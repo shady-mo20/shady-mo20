@@ -1,31 +1,74 @@
-# Shady Mohammed
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Welcome GIF" width="200"/>
+      </td>
+      <td>
+        <h2>Shady Mohammed</h2>
+        <p><em>AI Engineer</em></p>
+        <p>
+          🔹 specializing in machine learning and AI-driven solutions.<br>
+          🔹 Contributions: 45 in 2024<br>
+          🔹 Public Repositories: 15<br>
+          🔹 Joined GitHub: 4 years ago<br>
+          🔹 Contact: <a href="mailto:shasdymohammed@gmail.com">shasdymohammed@gmail.com</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**AI & Machine Learning Engineer | Software & Systems Engineering**  
-Cairo, Egypt · [LinkedIn](https://www.linkedin.com/in/engshady-mohamed-842b93173/) · [Kaggle](https://www.kaggle.com/shadymohammed205) · [Email](mailto:shasdymohammed@gmail.com)
+---
 
-I build predictive models, computer vision projects, and software that automates operational workflows. I work as a **System Engineer at Proline Group**.
+## 📈 GitHub Statistics
 
-## Featured projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shady-mo20&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shady-mo20&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-### [NYC Taxi Trip Duration Prediction](https://github.com/shady-mo20/nyc-taxi-trip-duration-ridge)
+---
 
-Trained a Ridge regression model on NYC taxi trip data. It achieved **R² = 0.717** on the held-out test set for log-transformed trip duration.
+## 🛠️ Technical Skills
 
-### [Heart Disease Prediction](https://github.com/shady-mo20/Heart-Disease-Prediction)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
-A machine learning project that compares classification models and presents predictions in a Streamlit app. It placed **1st among projects in my DEPI track**.
+---
 
-### [Object Detection](https://github.com/shady-mo20/Object-Detection)
+## 🚀 Additional Skills
 
-A computer vision project using YOLOv3 and OpenCV to detect and label objects in images, video, and webcam streams.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws,gcp,linux,r,cpp,java,scala,git,github,flask,fastapi,mongodb,redis" alt="AI Engineer Skills" />
+  </a>
+</div>
 
-## Applied engineering
+---
 
-- **Event access control** · Built a one-time QR and barcode check-in system for Proline Group with duplicate-scan prevention and attendance reporting.
-- **Operations software** · Built internal dashboards and automation for event workflows, reporting, and warehouse asset tracking.
+## 🔗 Connect with Me
 
-## Technical toolkit
+<div align="center">
+  <a href="https://www.linkedin.com/in/engshady-mohamed-842b93173/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 10px;" />
+  </a>
+  <a href="https://www.kaggle.com/shadymohammed205/code" target="_blank">
+    <img src="https://img.icons8.com/windows/50/1A73E8/kaggle.png" alt="Kaggle" style="margin: 10px;" />
+  </a>
+  <a href="https://x.com/shady_en102" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X (Twitter)" style="margin: 10px;" />
+  </a>
+</div>
 
-- **Machine learning** · Python, pandas, scikit-learn, XGBoost, PyTorch, TensorFlow
-- **Computer vision** · OpenCV, YOLO
-- **Applications and data** · Flask, FastAPI, Streamlit, SQL, PostgreSQL, Git
+---
+
+⚡ **Fun Fact:** When I'm not diving into AI projects, you can find me exploring tech communities or working on personal coding challenges!
+
+---
